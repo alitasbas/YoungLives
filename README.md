@@ -1,2 +1,2 @@
 # YoungLives
-An assignment
+An assignment including tidying and modeling
